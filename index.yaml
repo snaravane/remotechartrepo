@@ -3,7 +3,21 @@ entries:
   demochart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-08T13:11:55.811231-05:00"
+    created: "2023-01-08T13:24:08.520414-05:00"
+    dependencies:
+    - name: mysql
+      repository: http://charts.bitnami.com/bitnami
+      version: ~9.4.x
+    description: A Helm chart for Kubernetes
+    digest: 87767edbf253299651e07edd3231bb30287149d397716f2f5e25c04607b5ac25
+    name: demochart
+    type: application
+    urls:
+    - demochart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-08T13:24:08.515959-05:00"
     description: A Helm chart for Kubernetes
     digest: 01053f2b82f9917bda99c3a017a58f2c9366e2325567f33ed4def73eb872794f
     name: demochart
@@ -11,4 +25,4 @@ entries:
     urls:
     - demochart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-08T13:11:55.810556-05:00"
+generated: "2023-01-08T13:24:08.514429-05:00"
