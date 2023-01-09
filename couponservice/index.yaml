@@ -5,7 +5,7 @@ entries:
       category: Database
     apiVersion: v2
     appVersion: 8.0.31
-    created: "2023-01-08T19:07:33.703099-05:00"
+    created: "2023-01-08T19:14:23.012233-05:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -34,4 +34,4 @@ entries:
     urls:
     - charts/mysql-9.4.5.tgz
     version: 9.4.5
-generated: "2023-01-08T19:07:33.698128-05:00"
+generated: "2023-01-08T19:14:23.0083-05:00"
